@@ -6,7 +6,7 @@
     "title": "Titel",
     "text": "Text",
     "images": [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_7V67TTbQsu_nMpJ_NVjiiG-A1ftTV8eLvg&s"
+      "IMG"
     ]
   },
   {
@@ -64,5 +64,71 @@
     "images": [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_7V67TTbQsu_nMpJ_NVjiiG-A1ftTV8eLvg&s"
     ]
+  },
+  
+  {
+    "tag": [
+      "natur"
+    ],
+    "title": "Leerer Zoo",
+    "text": "Text",
+    "type": "marker",
+    "coords": [
+      45.066448,
+      7.704852
+    ],
+    "images": [
+      "IMG_8257.JPG"
+    ]
+  },
+  
+  {
+    "tag": [
+      "natur"
+    ],
+    "title": "Leerer Zoo",
+    "text": "Text",
+    "type": "marker",
+    "coords": [
+      45.06752,
+      7.707854
+    ],
+    "images": [
+      "IMG_8206.JPG"
+    ]
+  },
+  
+  {
+    "tag": [
+      "natur"
+    ],
+    "title": "Mittelalter Park",
+    "text": "Text",
+    "type": "marker",
+    "coords": [
+      45.049773,
+      7.684236
+    ],
+    "images": [
+      "IMG_8176.JPG"
+    ]
+  },
+  
+  {
+    "tag": [
+      "natur"
+    ],
+    "title": "Pflanze in der Wand",
+    "text": "Text",
+    "type": "marker",
+    "coords": [
+      45.066413,
+      7.695243
+    ],
+    "images": [
+      "IMG_8286.JPG"
+    ]
   }
+
+
 ]
